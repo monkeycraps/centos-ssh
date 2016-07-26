@@ -6,7 +6,7 @@
 # =============================================================================
 FROM centos:centos7.2.1511
 
-MAINTAINER James Deathe <james.deathe@gmail.com>
+MAINTAINER monkeycraps <monkeycraps.lin@gmail.com>
 
 # -----------------------------------------------------------------------------
 # Import the RPM GPG keys for Repositories
